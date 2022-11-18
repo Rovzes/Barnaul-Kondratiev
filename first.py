@@ -1,2 +1,2 @@
 print("My first")
-print("git-repo")
+print("git-repositorii")
